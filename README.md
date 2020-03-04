@@ -1,8 +1,9 @@
 # DigiCashWallet
 DigiCash wallet for chrome &amp; firefox
 
-How to install in Chrome : 
-1-install the zip   
+How to install in Chrome :  
+
+1-download the zip   
 
 2-unzip it  
 
